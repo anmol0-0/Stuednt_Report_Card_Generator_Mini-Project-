@@ -1,12 +1,12 @@
 ---
-### 📝 Project Instructions: Student Report Card Generator
-
+###   Project Instructions: Student Report Card Generator
+  
 **Objective:**
 Create a Python program that allows users to input student names and their 3 scores, calculates their average score, determines a grade, and displays a report.
 
 ---
 
-### 📌 Requirements:
+###   Requirements:
 
 1. **Ask the user** how many students' data will be entered.
 2. For each student:
